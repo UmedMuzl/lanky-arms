@@ -6,7 +6,7 @@ description = "Allows lanky to sway his arms at all speeds"
 short_description = "Allows lanky to sway his arms at all speeds"
 authors = [ "Umed" ]
 game_id = "dk64"
-minimum_recomp_version = "1.0.0"
+minimum_recomp_version = "1.0.2"
 
 [inputs]
 elf_path = "build/mod.elf"
